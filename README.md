@@ -46,3 +46,5 @@ Cada pasta deste repo possui um README.md com o enunciado do exercício e um tem
 [Aula 04 - Operadores Aritméticos e Comparadores - Lógica de Programação para Iniciantes | Labenu](https://www.youtube.com/watch?v=OgxcX1MjbKU&list=PLAIgeRdMaoGVrASBxWcbAurQMzXJMArkg&index=4)
 
 [Aula 05 - Operadores Lógicos - Lógica de Programação para Iniciantes  | Labenu](https://www.youtube.com/watch?v=bA-dXIB1tXI&list=PLAIgeRdMaoGVrASBxWcbAurQMzXJMArkg&index=5)
+
+uma outra mudança
